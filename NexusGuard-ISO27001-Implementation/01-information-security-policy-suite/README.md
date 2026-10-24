@@ -52,4 +52,4 @@ NexusGuard, its people, systems, incidents and figures are fictional and were cr
 
 ## Author
 
-Augustine Ozor, AI Governance and Cybersecurity GRC. [GitHub](https://github.com/AugustineOzor) · [LinkedIn](https://www.linkedin.com/in/augustinetettehozor)
+
