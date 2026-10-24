@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Information Security Policy Suite" width="100%">
+  <img width="2800" height="680" alt="banner1" src="https://github.com/user-attachments/assets/95fe252d-0db7-4faa-a93b-f0fb7f70931f" />
+
 </p>
 
 # Information Security Policy Suite
@@ -51,4 +52,4 @@ NexusGuard, its people, systems, incidents and figures are fictional and were cr
 
 ## Author
 
-Augustine Ozor, AI Governance and Cybersecurity GRC. [GitHub](https://github.com/AugustineOzor) · [LinkedIn](https://www.linkedin.com/in/augustinetettehozor)
+
