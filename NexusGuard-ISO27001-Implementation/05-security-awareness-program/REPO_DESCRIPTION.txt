@@ -1,7 +1,0 @@
-Repository name: nexusguard-security-awareness-program
-
-About (GitHub description):
-Fictional role-based security awareness program for 450 staff: program plan, 12-month calendar with KPI targets, and a 15-slide phishing training module, mapped to ISO 27001 A.6.3, HIPAA and PCI DSS 12.6.
-
-Topics:
-iso-27001, security-awareness, phishing, training, hipaa, pci-dss, grc, portfolio
