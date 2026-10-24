@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="NexusGuard ISO 27001 Implementation" width="100%">
+  <img width="2800" height="680" alt="banner" src="https://github.com/user-attachments/assets/e3f2a9d6-cc87-4424-a763-9d472116d636" />
+
 </p>
 
 # NexusGuard ISO 27001 Implementation
@@ -55,7 +56,6 @@ A fictional end-to-end ISO/IEC 27001:2022 implementation for **NexusGuard Techno
 ```
 NexusGuard-ISO27001-Implementation/
 ├── README.md
-├── assets/banner.jpg
 ├── 01-information-security-policy-suite/
 ├── 02-access-control-and-policy-exceptions/
 ├── 03-isms-governance-risk-and-metrics/
