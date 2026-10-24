@@ -49,6 +49,6 @@ The exercises in this series used slightly different NexusGuard details in place
 
 NexusGuard, its people, systems, incidents and figures are fictional and were created for skills practice and portfolio use. This is not legal advice or a compliance determination. Control and regulation references are paraphrased pointers, so verify them against the source text before relying on them.
 
-## Author
+
 
 
