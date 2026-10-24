@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Information Security Policy Suite" width="100%">
+<img width="2800" height="680" alt="banner1" src="https://github.com/user-attachments/assets/eea9a24a-00cc-4135-ad62-6db5ac297feb" />
+
 </p>
 
 # Information Security Policy Suite
