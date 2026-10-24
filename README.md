@@ -29,28 +29,6 @@ A fictional end-to-end ISO/IEC 27001:2022 implementation for **NexusGuard Techno
 
 **Suggested reading order:** 03 (who governs and how success is measured), 01 (the rules), 02 (access and exceptions), 04 (assets and procedures), 05 (people).
 
-## Banners
-
-### 01. Information Security Policy Suite
-
-<a href="01-information-security-policy-suite/README.md"><img src="01-information-security-policy-suite/assets/banner.jpg" alt="Information Security Policy Suite" width="100%"></a>
-
-### 02. Access Control and Policy Exceptions
-
-<a href="02-access-control-and-policy-exceptions/README.md"><img src="02-access-control-and-policy-exceptions/assets/banner.jpg" alt="Access Control and Policy Exceptions" width="100%"></a>
-
-### 03. ISMS Governance, Risk and Metrics
-
-<a href="03-isms-governance-risk-and-metrics/README.md"><img src="03-isms-governance-risk-and-metrics/assets/banner.jpg" alt="ISMS Governance, Risk and Metrics" width="100%"></a>
-
-### 04. Asset Register and Security SOPs
-
-<a href="04-asset-register-and-security-sops/README.md"><img src="04-asset-register-and-security-sops/assets/banner.jpg" alt="Asset Register and Security SOPs" width="100%"></a>
-
-### 05. Security Awareness Program FY2026
-
-<a href="05-security-awareness-program/README.md"><img src="05-security-awareness-program/assets/banner.jpg" alt="Security Awareness Program FY2026" width="100%"></a>
-
 ## Folder layout
 
 ```
