@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="ISMS Governance, Risk and Metrics" width="100%">
+<img width="2800" height="680" alt="banner3" src="https://github.com/user-attachments/assets/c9545b68-3141-4bf9-975f-7d38955b0f5d" />
+
 </p>
 
 # ISMS Governance, Risk and Metrics
@@ -50,4 +51,4 @@ NexusGuard, its people, systems, incidents and figures are fictional and were cr
 
 ## Author
 
-Augustine Ozor, AI Governance and Cybersecurity GRC. [GitHub](https://github.com/AugustineOzor) · [LinkedIn](https://www.linkedin.com/in/augustinetettehozor)
+
