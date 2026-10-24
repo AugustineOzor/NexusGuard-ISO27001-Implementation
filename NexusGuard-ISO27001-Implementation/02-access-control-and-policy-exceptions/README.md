@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Access Control and Policy Exceptions" width="100%">
+<img width="2800" height="680" alt="banner2" src="https://github.com/user-attachments/assets/4b17294c-e99c-47c6-aff5-41fd437d3336" />
+
 </p>
 
 # Access Control and Policy Exceptions
@@ -48,4 +49,3 @@ NexusGuard, its people, systems, incidents and figures are fictional and were cr
 
 ## Author
 
-Augustine Ozor, AI Governance and Cybersecurity GRC. [GitHub](https://github.com/AugustineOzor) · [LinkedIn](https://www.linkedin.com/in/augustinetettehozor)
