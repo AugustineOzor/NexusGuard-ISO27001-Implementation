@@ -1,0 +1,7 @@
+Repository name: nexusguard-asset-register-and-security-sops
+
+About (GitHub description):
+Fictional ISO 27001 operations pack: a 45-asset Information Asset Register with ISSC findings deck, plus four SOPs with flowcharts for access provisioning, incident classification, vulnerability patching and third-party vendor onboarding.
+
+Topics:
+iso-27001, asset-register, sop, incident-response, vulnerability-management, third-party-risk, access-management, grc, portfolio
