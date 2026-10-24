@@ -1,0 +1,7 @@
+Repository name: nexusguard-access-control-and-policy-exceptions
+
+About (GitHub description):
+Fictional ISO 27001 access control package: Access Control Policy (joiner/mover/leaver, PAM, MFA, remote access, quarterly reviews), a risk-based Policy Exception Management Process with three worked examples, and three USB request decisions.
+
+Topics:
+iso-27001, access-control, privileged-access, policy-exceptions, mfa, grc, risk-management, portfolio

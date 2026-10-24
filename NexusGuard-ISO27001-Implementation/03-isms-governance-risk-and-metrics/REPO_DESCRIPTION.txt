@@ -1,0 +1,7 @@
+Repository name: nexusguard-isms-governance-risk-metrics
+
+About (GitHub description):
+Fictional ISO 27001 governance toolkit: ISSC, Risk and Compliance committee charters, board and ISSC report templates, a 26-metric GRC KPI framework with baseline narrative and Excel dashboard, and a 42-activity RACI matrix.
+
+Topics:
+iso-27001, grc, governance, kpi, metrics, raci, board-reporting, risk-management, portfolio
