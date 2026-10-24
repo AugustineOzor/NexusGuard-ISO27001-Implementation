@@ -77,5 +77,3 @@ Publish the whole folder as one repository, or publish each project as its own r
 NexusGuard, its people, systems, incidents and figures are fictional and were created for skills practice and portfolio use. This is not legal advice or a compliance determination. Control and regulation references are paraphrased pointers, so verify them against the source text before relying on them. The exercises in this series used slightly different NexusGuard details in places (for example offices and headcount), so each document reflects the facts of its own scenario.
 
 ## Author
-
-Augustine Ozor, AI Governance and Cybersecurity GRC. [GitHub](https://github.com/AugustineOzor) · [LinkedIn](https://www.linkedin.com/in/augustinetettehozor)
