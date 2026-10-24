@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Security Awareness Program FY2026" width="100%">
+<img width="2800" height="680" alt="banner5" src="https://github.com/user-attachments/assets/587a4584-61f9-49e6-bcd5-5370e417faab" />
+
 </p>
 
 # Security Awareness Program FY2026
@@ -55,6 +56,4 @@ The exercises in this series used slightly different NexusGuard details in place
 
 NexusGuard, its people, systems, incidents and figures are fictional and were created for skills practice and portfolio use. This is not legal advice or a compliance determination. Control and regulation references are paraphrased pointers, so verify them against the source text before relying on them.
 
-## Author
 
-Augustine Ozor, AI Governance and Cybersecurity GRC. [GitHub](https://github.com/AugustineOzor) · [LinkedIn](https://www.linkedin.com/in/augustinetettehozor)
